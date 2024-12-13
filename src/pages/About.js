@@ -1,7 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css"
 import {Container, Row ,Col } from 'react-bootstrap'
-import image from "../portfolio_images1/whatsapp_image.jpeg";
+import image from '../portfolio_images1/1st_image.jpeg'
 
 
 
